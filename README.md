@@ -1,26 +1,49 @@
 # portfolio
+
 # README
 
-Hello everyone, I'm **Umar Farooq**, a passionate and versatile full stack developer with a knack for turning ideas into reality. I'm always ready to help you with your projects and committed to delivering 100% in every project I undertake.
+Hello everyone, I'm **Umar Farooq**, a passionate and versatile full stack developer with a knack for turning 
 
-Whether you're an entrepreneur, a startup, or a business seeking to revamp your online presence, I'm here to transform your digital dreams into reality. From pixel-perfect design to seamless navigation and airtight functionality, I bring your ideas to life with precision and passion.
+ideas into reality. I'm always ready to help you with your projects and committed to delivering 100% in every 
+
+project I undertake.
+
+Whether you're an entrepreneur, a startup, or a business seeking to revamp your online presence, I'm here to 
+
+transform your digital dreams into reality. From pixel-perfect design to seamless navigation and airtight 
+
+functionality, I bring your ideas to life with precision and passion.
 
 Here is the list of services that I offer:
+
 1️⃣ React JS Development
+
 2️⃣ Next.JS Development
+
 3️⃣ Node JS Development
+
 4️⃣ React Native Development
+
 5️⃣ PHP Development
+
 6️⃣ Python Development
+
 7️⃣ WordPress Development
+
 8️⃣ ASP.NET Development
+
 9️⃣ Web Scraping, Web Automation & Data Mining
+
 🔟 Laravel Development
 
 **Why Choose Me:**
+
 1️⃣ Available for you 24/7
+
 2️⃣ 6+ Years of Professional Experience
+
 3️⃣ Excellent Reputation and High Re-Hire Rate
+
 4️⃣ On-Time Delivery
 
 Let's work together to create something amazing!
